@@ -30,11 +30,13 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 📊 Статистика Codewars
+
+[![Codewars](https://github.r2v.ch/codewars?user=Gddan25&name=true&top_languages=true&theme=dark)](https://www.codewars.com/users/Gddan25)
+
 ## 💬 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gd_dan25)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/gd_dan25)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Gddan25)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dan29012004@gmail.com)
-
-[![Codewars](https://github.r2v.ch/codewars?user=Gddan25&name=true&top_languages=true&theme=dark)](https://www.codewars.com/users/Gddan25)
