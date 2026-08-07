@@ -36,3 +36,5 @@
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/gd_dan25)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Gddan25)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dan29012004@gmail.com)
+
+[![Codewars](https://github.r2v.ch/codewars?user=Gddan25)](https://www.codewars.com/users/Gddan25)
